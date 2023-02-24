@@ -1,0 +1,7 @@
+.FAQs{
+    display: flex;
+    /* flex-direction: row; */
+    background-color: rgb(221, 96, 200);
+    width: 700px;
+    height: 100px;
+}
